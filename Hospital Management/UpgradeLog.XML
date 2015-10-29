@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Hospital Management">
+</Property><Property Name="Solution File" Value="D:\Dropboxdata\Hospital Management\Hospital Management.sln">
+</Property><Property Name="Date" Value="Saturday, January 03, 2015">
+</Property><Property Name="Time" Value="13:00 PM">
+</Property></Properties><Event ErrorLevel="4" Project="Hospital Management" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="Hospital Management" Source="Hospital Management\Hospital Management.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Hospital Management" Source="Hospital Management\Hospital Management.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Hospital Management.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Hospital Management.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Hospital Management" Source="Hospital Management\Hospital Management.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

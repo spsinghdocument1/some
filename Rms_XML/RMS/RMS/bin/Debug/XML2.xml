@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<StudentDetailss>
+  <Studentt>
+    <I>101</I>
+    <N>Amit</N>
+    <C>MCA</C>
+    <Co>Skyline</Co>
+  </Studentt>
+  <Studentt>
+    <I>102</I>
+    <N>Nimit</N>
+    <C>MCA</C>
+    <Co>Abes</Co>
+  </Studentt>
+  <Studentt>
+    <I>103</I>
+    <N>Pankaj</N>
+    <C>MCA</C>
+    <Co>Abes</Co>
+  </Studentt>
+  <Studentt>
+    <I>104</I>
+    <N>sp</N>
+    <C>betech</C>
+    <Co>drknmiet</Co>
+  </Studentt>
+  <Studentt>
+    <I>105</I>
+    <N>mayank</N>
+    <C>btegh</C>
+    <Co>jhjhjk</Co>
+  </Studentt>
+  <Studentt>
+    <I>4</I>
+    <N>hgg</N>
+    <C>fgjk</C>
+    <Co>jkio</Co>
+  </Studentt>
+</StudentDetailss>

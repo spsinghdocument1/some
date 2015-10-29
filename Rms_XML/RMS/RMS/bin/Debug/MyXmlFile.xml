@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<StudentDetails>
+  <Student>
+    <ID>103</ID>
+    <Name>Pankaj</Name>
+    <Course>MCA</Course>
+    <College>Abes</College>
+  </Student>
+  <Student>
+    <ID>104</ID>
+    <Name>sp</Name>
+    <Course>betech</Course>
+    <College>drknmiet</College>
+  </Student>
+  <Student>
+    <ID>106</ID>
+    <Name>sp</Name>
+    <Course>betech</Course>
+    <College>drknmiet</College>
+  </Student>
+  <Student>
+    <ID>106</ID>
+    <Name>sp</Name>
+    <Course>dddddd</Course>
+    <College>dddddddd</College>
+  </Student>
+  <Student>
+    <ID>103</ID>
+    <Name>fdsfd</Name>
+    <Course>fgdhg</Course>
+    <College>gfdghrf</College>
+  </Student>
+</StudentDetails>

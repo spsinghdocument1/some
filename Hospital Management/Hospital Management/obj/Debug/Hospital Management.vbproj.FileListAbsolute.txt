@@ -1,0 +1,195 @@
+E:\Hospital Management\Hospital Management\obj\Debug\Interop.ADODB.dll
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbproj.ResolveComReference.cache
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital Management.xml
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+E:\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+E:\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+E:\Hospital Management\Hospital Management\bin\Debug\Hospital Management.xml
+E:\Hospital Management\Hospital Management\bin\Debug\Interop.ADODB.dll
+E:\Hospital Management\Hospital Management\obj\Debug\ResolveAssemblyReference.cache
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdept.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdoctor.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmemployee.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Frmnurse.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmogin.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Resources.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbproj.GenerateResource.Cache
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmregistration.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmaster.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmroom.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frminpatient.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Frmviewinpati.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmshiftroom.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdischarge.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmtreatment.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmprescription.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoperation.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoutpatient.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmovepatients.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmequipment.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoutpatientbill.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchinpatient.resources
+E:\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchdoctor.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Interop.ADODB.dll
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbproj.ResolveComReference.cache
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital Management.xml
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+E:\new\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+E:\new\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+E:\new\Hospital Management\Hospital Management\bin\Debug\Hospital Management.xml
+E:\new\Hospital Management\Hospital Management\bin\Debug\Interop.ADODB.dll
+E:\new\Hospital Management\Hospital Management\obj\Debug\ResolveAssemblyReference.cache
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdept.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdischarge.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdoctor.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmemployee.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmequipment.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frminpatient.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmaster.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmovepatients.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Frmnurse.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmogin.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoperation.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoutpatient.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoutpatientbill.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmprescription.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmregistration.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmroom.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchdoctor.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchinpatient.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmshiftroom.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmtreatment.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Frmviewinpati.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Resources.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbproj.GenerateResource.Cache
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmviewpatient.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchout.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmviewout.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmsg.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsendmsg.resources
+E:\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.medicine.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Interop.ADODB.dll
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbproj.ResolveComReference.cache
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital Management.xml
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+E:\S.B.C\new\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+E:\S.B.C\new\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+E:\S.B.C\new\Hospital Management\Hospital Management\bin\Debug\Hospital Management.xml
+E:\S.B.C\new\Hospital Management\Hospital Management\bin\Debug\Interop.ADODB.dll
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\ResolveAssemblyReference.cache
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdept.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdischarge.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdoctor.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmemployee.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmequipment.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frminpatient.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmaster.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmovepatients.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmsg.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Frmnurse.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmogin.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoperation.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoutpatient.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoutpatientbill.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmprescription.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmregistration.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmroom.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchdoctor.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchinpatient.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchout.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsendmsg.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmshiftroom.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmtreatment.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Frmviewinpati.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmviewout.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmviewpatient.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.medicine.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Resources.resources
+E:\S.B.C\new\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbproj.GenerateResource.Cache
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Interop.ADODB.dll
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbproj.ResolveComReference.cache
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital Management.xml
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+D:\Hospital SBC\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+D:\Hospital SBC\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+D:\Hospital SBC\Hospital Management\Hospital Management\bin\Debug\Hospital Management.xml
+D:\Hospital SBC\Hospital Management\Hospital Management\bin\Debug\Interop.ADODB.dll
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\ResolveAssemblyReference.cache
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdept.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdischarge.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdoctor.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmemployee.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmequipment.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frminpatient.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmaster.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmovepatients.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmsg.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Frmnurse.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmogin.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoperation.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoutpatient.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoutpatientbill.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmprescription.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmregistration.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmroom.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchdoctor.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchinpatient.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchout.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsendmsg.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmshiftroom.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmtreatment.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Frmviewinpati.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmviewout.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmviewpatient.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.medicine.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Resources.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbproj.GenerateResource.Cache
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmedicine2.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmchange.resources
+D:\Hospital SBC\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmprintbill.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Interop.ADODB.dll
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbproj.ResolveComReference.cache
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital Management.xml
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+D:\Dropboxdata\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+D:\Dropboxdata\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+D:\Dropboxdata\Hospital Management\Hospital Management\bin\Debug\Hospital Management.xml
+D:\Dropboxdata\Hospital Management\Hospital Management\bin\Debug\Interop.ADODB.dll
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbprojResolveAssemblyReference.cache
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmchange.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdept.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdischarge.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmdoctor.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmemployee.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmequipment.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frminpatient.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmaster.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmedicine2.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmovepatients.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmmsg.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Frmnurse.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmogin.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoperation.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoutpatient.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmoutpatientbill.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmprescription.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmprintbill.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmregistration.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmroom.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchdoctor.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchinpatient.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsearchout.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmsendmsg.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmshiftroom.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmtreatment.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Frmviewinpati.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmviewout.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.frmviewpatient.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.medicine.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Resources.resources
+D:\Dropboxdata\Hospital Management\Hospital Management\obj\Debug\Hospital Management.vbproj.GenerateResource.Cache

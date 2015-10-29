@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<users>
+  <user>
+    <user_name>MINQTY</user_name>
+    <type>number</type>
+  </user>
+  <user>
+    <user_name>MAX QTY</user_name>
+    <type>number</type>
+  </user>
+  <user>
+    <user_name>BNSFOIFF</user_name>
+    <type>number</type>
+  </user>
+  <user>
+    <user_name>BFNSQTY</user_name>
+    <type>string</type>
+  </user>
+</users>

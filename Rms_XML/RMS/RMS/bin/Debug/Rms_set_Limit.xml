@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<StudentDetailss>
+  <Student>
+    <EntityId>102</EntityId>
+    <BranchId>Brh_1</BranchId>
+    <CashFund>45</CashFund>
+    <MTOMLimit>64</MTOMLimit>
+    <AdditionalFund>466</AdditionalFund>
+    <ExporsureLimit>76</ExporsureLimit>
+    <TotalBuyQtyLimit>56</TotalBuyQtyLimit>
+    <TurnoverLimit>757</TurnoverLimit>
+    <TotalSellQtyLimit>56</TotalSellQtyLimit>
+    <PortfolioLimit>56</PortfolioLimit>
+    <SingleOrderQtyLimit>56</SingleOrderQtyLimit>
+    <MaxQtyPerPortfolio>7657</MaxQtyPerPortfolio>
+    <SingleOrderValueLimit>56</SingleOrderValueLimit>
+    <OSPositionLimit>75</OSPositionLimit>
+  </Student>
+  <Student>
+    <EntityId>5</EntityId>
+    <BranchId>Brh_1</BranchId>
+    <CashFund>4</CashFund>
+    <MTOMLimit>4</MTOMLimit>
+    <AdditionalFund>4</AdditionalFund>
+    <ExporsureLimit>4</ExporsureLimit>
+    <TotalBuyQtyLimit>4</TotalBuyQtyLimit>
+    <TurnoverLimit>4</TurnoverLimit>
+    <TotalSellQtyLimit>4</TotalSellQtyLimit>
+    <PortfolioLimit>4</PortfolioLimit>
+    <SingleOrderQtyLimit>4</SingleOrderQtyLimit>
+    <MaxQtyPerPortfolio>4</MaxQtyPerPortfolio>
+    <SingleOrderValueLimit>4</SingleOrderValueLimit>
+    <OSPositionLimit>4</OSPositionLimit>
+  </Student>
+</StudentDetailss>

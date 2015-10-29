@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<User_Parameters>
+  <Parameters>
+    <PARAMETER>6</PARAMETER>
+    <PORTFOLIO>portfolio6</PORTFOLIO>
+    <TOKEN_1>BANKNIFTY</TOKEN_1>
+    <TOKEN_2>CNXINFRA</TOKEN_2>
+  </Parameters>
+  <Parameters>
+    <PARAMETER>
+    </PARAMETER>
+    <portfalio>por</portfalio>
+    <Token_1>t1</Token_1>
+    <Token_2>t2</Token_2>
+    <MINQTY>a</MINQTY>
+    <MAXQTY>b</MAXQTY>
+    <BNSFOIFF>c</BNSFOIFF>
+    <BFNSQTY>d</BFNSQTY>
+  </Parameters>
+  <Parameters>
+    <PARAMETER>
+    </PARAMETER>
+    <portfalio>4</portfalio>
+    <Token_1>4454</Token_1>
+    <Token_2>454</Token_2>
+    <MINQTY>644</MINQTY>
+    <MAXQTY>464</MAXQTY>
+    <BNSFOIFF>654</BNSFOIFF>
+    <BFNSQTY>564</BFNSQTY>
+  </Parameters>
+</User_Parameters>

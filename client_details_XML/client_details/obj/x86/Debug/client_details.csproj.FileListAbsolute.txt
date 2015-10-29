@@ -1,0 +1,85 @@
+D:\Dropboxdata\client details\client_details\client_details\bin\Debug\client_details.exe
+D:\Dropboxdata\client details\client_details\client_details\bin\Debug\client_details.pdb
+D:\Dropboxdata\client details\client_details\client_details\obj\x86\Debug\client_details.Form1.resources
+D:\Dropboxdata\client details\client_details\client_details\obj\x86\Debug\client_details.Form2.resources
+D:\Dropboxdata\client details\client_details\client_details\obj\x86\Debug\client_details.Properties.Resources.resources
+D:\Dropboxdata\client details\client_details\client_details\obj\x86\Debug\client_details.RepositionColumns.resources
+D:\Dropboxdata\client details\client_details\client_details\obj\x86\Debug\client_details.Select.resources
+D:\Dropboxdata\client details\client_details\client_details\obj\x86\Debug\client_details.Token_Dlg.resources
+D:\Dropboxdata\client details\client_details\client_details\obj\x86\Debug\client_details.VisibleColumns.resources
+D:\Dropboxdata\client details\client_details\client_details\obj\x86\Debug\client_details.csproj.GenerateResource.Cache
+D:\Dropboxdata\client details\client_details\client_details\obj\x86\Debug\client_details.exe
+D:\Dropboxdata\client details\client_details\client_details\obj\x86\Debug\client_details.pdb
+D:\Dropboxdata\client details\15 jan\client_details\client_details\bin\Debug\client_details.exe
+D:\Dropboxdata\client details\15 jan\client_details\client_details\bin\Debug\client_details.pdb
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.Form1.resources
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.Form2.resources
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.Properties.Resources.resources
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.RepositionColumns.resources
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.Select.resources
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.Token_Dlg.resources
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.Token_Dlg2.resources
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.VisibleColumns.resources
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.csproj.GenerateResource.Cache
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.exe
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.pdb
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.Modfy.resources
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.csprojResolveAssemblyReference.cache
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.User_Input.resources
+D:\Dropboxdata\client details\15 jan\client_details\client_details\obj\x86\Debug\client_details.User_Input2.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.exe
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.pdb
+D:\Dropboxdata\client details\20 jan\client_details\client_details\bin\Debug\client_details.exe
+D:\Dropboxdata\client details\20 jan\client_details\client_details\bin\Debug\client_details.pdb
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.csprojResolveAssemblyReference.cache
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.Form1.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.Form2.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.Modfy.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.Properties.Resources.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.RepositionColumns.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.Select.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.Token_Dlg.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.Token_Dlg2.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.User_Input.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.User_Input2.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.VisibleColumns.resources
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.csproj.GenerateResource.Cache
+D:\Dropboxdata\client details\20 jan\client_details\client_details\obj\x86\Debug\client_details.userview.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.exe
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.pdb
+D:\Dropboxdata\client details\21 jan\client_details\client_details\bin\Debug\client_details.exe
+D:\Dropboxdata\client details\21 jan\client_details\client_details\bin\Debug\client_details.pdb
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.csprojResolveAssemblyReference.cache
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.Form1.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.Form2.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.Modfy.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.Properties.Resources.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.RepositionColumns.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.Select.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.Token_Dlg.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.Token_Dlg2.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.userview.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.User_Input.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.User_Input2.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.VisibleColumns.resources
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.csproj.GenerateResource.Cache
+D:\Dropboxdata\client details\21 jan\client_details\client_details\obj\x86\Debug\client_details.Add_Token.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\bin\Debug\client_details.exe
+D:\Dropboxdata\client details\23 jan\client_details\client_details\bin\Debug\client_details.pdb
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.Add_Token.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.Form1.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.Form2.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.Modfy.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.Properties.Resources.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.RepositionColumns.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.Select.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.Token_Dlg.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.Token_Dlg2.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.userview.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.User_Input.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.User_Input2.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.VisibleColumns.resources
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.csproj.GenerateResource.Cache
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.exe
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.pdb
+D:\Dropboxdata\client details\23 jan\client_details\client_details\obj\x86\Debug\client_details.csprojResolveAssemblyReference.cache

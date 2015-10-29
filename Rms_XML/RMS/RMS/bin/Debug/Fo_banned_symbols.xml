@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<StudentDetails>
+  <Student>
+    <Symbol>NFTYMCAP50 </Symbol>
+  </Student>
+  <Student>
+    <Symbol>NFTYMCAP50  </Symbol>
+  </Student>
+  <Student>
+    <Symbol>ACC       </Symbol>
+  </Student>
+  <Student>
+    <Symbol>ADANIPORTS</Symbol>
+  </Student>
+  <Student>
+    <Symbol>ALBK      </Symbol>
+  </Student>
+  <Student>
+    <Symbol>DJIA      </Symbol>
+  </Student>
+</StudentDetails>

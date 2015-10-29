@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TokensDetails>
+  <Token>
+    <Exchange>NFO</Exchange>
+    <order_type>Normal</order_type>
+    <Inst_type>OPTIDX</Inst_type>
+    <symbol>BANKNIFTY</symbol>
+    <exoiry>10/30/2014</exoiry>
+    <option_type>CE</option_type>
+    <strike_price>1350000</strike_price>
+  </Token>
+  <Token>
+    <Exchange>NFO</Exchange>
+    <order_type>Normal</order_type>
+    <Inst_type>OPTIDX</Inst_type>
+    <symbol>BANKNIFTY</symbol>
+    <exoiry>10/30/2014</exoiry>
+    <option_type>CE</option_type>
+    <strike_price>1350000</strike_price>
+    <Token_1>35000</Token_1>
+    <Token_2>35000</Token_2>
+  </Token>
+</TokensDetails>
