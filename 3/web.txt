@@ -1,0 +1,78 @@
+<style type="text/css">
+table {
+       font-family: verdana,arial,sans-serif;
+       font-size:11px;
+       color:#333333;
+       border-width: 1px;
+       border-color: #666666;
+       border-collapse: collapse;
+}
+table th {
+       border-width: 1px;
+       padding: 8px;
+       border-style: solid;
+       border-color: #666666;
+       background-color: #dedede;
+}
+table td {
+       border-width: 1px;
+       padding: 8px;
+       border-style: solid;
+       border-color: #666666;
+       background-color: #ffffff;
+}
+</style>
+
+
+/////////////////////////////////////////////////////////////
+
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css" />
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="http://code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
+<style>
+    body
+    {
+        font-size: 70%;
+    }
+</style>
+<script type="text/javascript" language="javascript">
+    $(function () {
+        $(".calendarcss").datepicker({
+            showOn: "button",
+            buttonImage: "images/calendar-icon.png",
+            buttonImageOnly: true,
+            buttonText: "Select date"
+        });
+    });
+</script>
+<style type="text/css">
+    table
+    {
+        font-family: verdana,arial,sans-serif;
+        font-size: 11px;
+        color: #333333;
+        border-width: 1px;
+        border-color: #666666;
+        border-collapse: collapse;
+    }
+    table th
+    {
+        border-width: 1px;
+        padding: 8px;
+        border-style: solid;
+        border-color: #666666;
+        background-color: #dedede;
+    }
+    table td
+    {
+        border-width: 1px;
+        padding: 8px;
+        border-style: solid;
+        border-color: #666666;
+        background-color: #ffffff;
+    }
+    input
+    {
+        width: 60px;
+    }
+</style>
